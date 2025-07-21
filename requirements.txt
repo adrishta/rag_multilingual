@@ -1,0 +1,6 @@
+langchain
+sentence-transformers
+chromadb
+pypdf
+fastapi
+uvicorn
